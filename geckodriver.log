@@ -1,0 +1,551 @@
+1690553013678	geckodriver	INFO	Listening on 127.0.0.1:56819
+1690553014660	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileZywwsY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690553015453	Marionette	INFO	Marionette enabled
+1690553015570	Marionette	INFO	Listening on port 40931
+Read port: 40931
+1690553016671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1690553034221	Marionette	INFO	Stopped listening on port 40931
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1690577692902	geckodriver	INFO	Listening on 127.0.0.1:47973
+1690577693900	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0meSuN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690577694692	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690577694893	Marionette	INFO	Listening on port 40181
+Read port: 40181
+1690577695633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1690577699689	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1690577709178	Marionette	INFO	Stopped listening on port 40181
+1690577882726	geckodriver	INFO	Listening on 127.0.0.1:47523
+1690577883752	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile2kKBzQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690577884258	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690577884351	Marionette	INFO	Listening on port 40491
+Read port: 40491
+1690577884734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1690578193300	geckodriver	INFO	Listening on 127.0.0.1:46033
+1690578194697	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilebAmoNg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690578195261	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690578195355	Marionette	INFO	Listening on port 37363
+Read port: 37363
+Read port: 37363
+Read port: 37363
+1690578202493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1690578290497	Marionette	INFO	Stopped listening on port 37363
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+1690578325273	geckodriver	INFO	Listening on 127.0.0.1:58543
+1690578326299	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile2eQh8g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690578326830	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690578326935	Marionette	INFO	Listening on port 33591
+Read port: 33591
+Read port: 33591
+1690578332572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 400: SyntaxError: missing } after function body
+JavaScript note: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 382: { opened at line 382, column 30
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery/jquery.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery-easing/jquery.easing.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/js/sb-admin-2.min.js, line 6: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1690578588167	geckodriver	INFO	Listening on 127.0.0.1:47077
+1690578589203	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNfPv6N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690578591443	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690578591795	Marionette	INFO	Listening on port 44841
+Read port: 44841
+1690578595012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 400: SyntaxError: missing } after function body
+JavaScript note: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 382: { opened at line 382, column 30
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery/jquery.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery-easing/jquery.easing.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/js/sb-admin-2.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 403: SyntaxError: missing } after function body
+JavaScript note: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 385: { opened at line 385, column 30
+JavaScript error: http://localhost/patientrecords/assets/vendor/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+JavaScript error: http://localhost/patientrecords/assets/vendor/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1690578876228	Marionette	INFO	Stopped listening on port 44841
+1690579197553	geckodriver	INFO	Listening on 127.0.0.1:37543
+1690579198581	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRNQs5U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690579199304	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690579199419	Marionette	INFO	Listening on port 46027
+Read port: 46027
+1690579200863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 400: SyntaxError: missing } after function body
+JavaScript note: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 382: { opened at line 382, column 30
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery/jquery.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery-easing/jquery.easing.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/js/sb-admin-2.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 403: SyntaxError: missing } after function body
+JavaScript note: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 385: { opened at line 385, column 30
+JavaScript error: http://localhost/patientrecords/assets/vendor/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+JavaScript error: http://localhost/patientrecords/assets/vendor/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1690579359222	Marionette	INFO	Stopped listening on port 46027
+1690579375002	geckodriver	INFO	Listening on 127.0.0.1:48305
+1690579376090	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3cK2SD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690579376592	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690579376691	Marionette	INFO	Listening on port 33031
+Read port: 33031
+1690579377794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 400: SyntaxError: missing } after function body
+JavaScript note: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 382: { opened at line 382, column 30
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery/jquery.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery-easing/jquery.easing.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/js/sb-admin-2.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 403: SyntaxError: missing } after function body
+JavaScript note: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 385: { opened at line 385, column 30
+JavaScript error: http://localhost/patientrecords/assets/vendor/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+JavaScript error: http://localhost/patientrecords/assets/vendor/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1690579584931	Marionette	INFO	Stopped listening on port 33031
+1690579657744	geckodriver	INFO	Listening on 127.0.0.1:55667
+1690579658814	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilew64iqo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690579659319	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690579659416	Marionette	INFO	Listening on port 41469
+Read port: 41469
+1690579661331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 400: SyntaxError: missing } after function body
+JavaScript note: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 382: { opened at line 382, column 30
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery/jquery.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery-easing/jquery.easing.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/js/sb-admin-2.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 403: SyntaxError: missing } after function body
+JavaScript note: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 385: { opened at line 385, column 30
+JavaScript error: http://localhost/patientrecords/assets/vendor/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+JavaScript error: http://localhost/patientrecords/assets/vendor/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1690579836847	Marionette	INFO	Stopped listening on port 41469
+1690579881300	geckodriver	INFO	Listening on 127.0.0.1:39407
+1690579882324	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiled7PJ88"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690579882832	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690579882944	Marionette	INFO	Listening on port 41215
+Read port: 41215
+1690579884536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 400: SyntaxError: missing } after function body
+JavaScript note: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 382: { opened at line 382, column 30
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery/jquery.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery-easing/jquery.easing.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/js/sb-admin-2.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 403: SyntaxError: missing } after function body
+JavaScript note: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 385: { opened at line 385, column 30
+JavaScript error: http://localhost/patientrecords/assets/vendor/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+JavaScript error: http://localhost/patientrecords/assets/vendor/datatables/jquery.dataTables.min.js, line 66: TypeError: e[i] is undefined
+1690580179369	Marionette	INFO	Stopped listening on port 41215
+1690580538510	geckodriver	INFO	Listening on 127.0.0.1:41711
+1690580539533	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilenI6Y5O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690580540086	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1690580540193	Marionette	INFO	Listening on port 46053
+Read port: 46053
+1690580541551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 400: SyntaxError: missing } after function body
+JavaScript note: http://localhost/patientrecords/admissioncontrol/admitdatatable, line 382: { opened at line 382, column 30
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery/jquery.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/vendor/jquery-easing/jquery.easing.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_form/js/sb-admin-2.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_opd_form/vendor/jquery/jquery.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_opd_form/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_opd_form/vendor/jquery-easing/jquery.easing.min.js, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost/patientrecords/admissioncontrol/edit_opd_form/js/sb-admin-2.min.js, line 6: SyntaxError: expected expression, got '<'
+1690580623048	Marionette	INFO	Stopped listening on port 46053
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
